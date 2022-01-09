@@ -50,7 +50,7 @@
 <br />
 
 **Desenvolvedora full-stack**\
-📆 06/2019 • 12/2020 (1 ano e 7 meses)
+📆 06/2019 • 12/2020 (1 ano e 7 meses)\
 📍 Adsomos Softwares
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
