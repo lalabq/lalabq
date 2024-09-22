@@ -7,7 +7,7 @@
 </h2>
 
 <div align="center">
-  <span>Desenvolvedora back-end – Santa Catarina 🇧🇷</span>
+  <span>Desenvolvedora full-stack – Santa Catarina 🇧🇷</span>
 </div>
 
 <br />
