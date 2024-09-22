@@ -7,7 +7,7 @@
 </h2>
 
 <div align="center">
-  <span>Desenvolvedora back-end – Brusque, Santa Catarina 🇧🇷</span>
+  <span>Desenvolvedora back-end – Santa Catarina 🇧🇷</span>
 </div>
 
 <br />
@@ -35,13 +35,13 @@
   
 <br />
   
-**Desenvolvedora back-end**\
+**Desenvolvedora full-stack**\
 📆 01/2021 • até o momento\
 🗽 Havan S.A.
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
